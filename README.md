@@ -32,5 +32,9 @@
     <td><b><a href="https://leetcode.com/problems/combination-sum/">Combination Sum</a></b></td>
     <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/Combination%20Sum.cpp">Solution</a></i></td>
   </tr>
+  <tr>
+    <td><b><a href="https://leetcode.com/problems/course-schedule/">Course Schedule</a></b></td>
+    <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/Course Schedule.cpp">Solution</a></i></td>
+  </tr>
 </table>
     
