@@ -36,5 +36,9 @@
     <td><b><a href="https://leetcode.com/problems/course-schedule/">Course Schedule</a></b></td>
     <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/Course Schedule.cpp">Solution</a></i></td>
   </tr>
+  <tr>
+    <td><b><a href="https://leetcode.com/problems/course-schedule-ii/">Course Schedule II</a></b></td>
+    <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/Course Schedule II.cpp">Solution</a></i></td>
+  </tr>
 </table>
     
