@@ -49,4 +49,16 @@
     <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/K-diff Pairs in an Array.cpp">Solution</a></i></td>
   </tr>
 </table>
+
+<b>Hard</b>
+<table>
+  <tr>
+    <td><b>Problem Link</b></td>
+    <td><b>Solution Link</b></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://leetcode.com/problems/n-queens/">N-Queens</a></b></td>
+    <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Hard/N-Queens.cpp">Solution</a></i></td>
+  </tr>
+</table>
     
