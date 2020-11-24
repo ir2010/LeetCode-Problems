@@ -61,7 +61,7 @@
     <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Hard/N-Queens.cpp">Solution</a></i></td>
   </tr>
   <tr>
-    <td><b><a href="https://leetcode.com/problems/n-queens-ii/">N-Queens</a></b></td>
+    <td><b><a href="https://leetcode.com/problems/n-queens-ii/">N-Queens II</a></b></td>
     <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Hard/N-Queens II.cpp">Solution</a></i></td>
   </tr>
 </table>
