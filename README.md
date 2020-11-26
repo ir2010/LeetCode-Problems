@@ -14,6 +14,10 @@
     <td><b><a href="https://leetcode.com/problems/complement-of-base-10-integer/">Complement of Base 10 Integer</a></b></td>
     <td><i><a href=https://github.com/ir2010/LeetCode-Problems/blob/main/Easy/Complement%20of%20Base%2010%20Integer.cpp>Solution</a></i></td>
   </tr>
+  <tr>
+    <td><b><a href="https://leetcode.com/problems/number-complement/">Number Complement</a></b></td>
+    <td><i><a href=https://github.com/ir2010/LeetCode-Problems/blob/main/Easy/Number Complement.cpp>Solution</a></i></td>
+  </tr>
   
 </table>
 
