@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td><b><a href="https://leetcode.com/problems/number-complement/">Number Complement</a></b></td>
-    <td><i><a href=https://github.com/ir2010/LeetCode-Problems/blob/main/Easy/Number Complement.cpp>Solution</a></i></td>
+    <td><i><a href=https://github.com/ir2010/LeetCode-Problems/blob/main/Easy/Number%20Complement.cpp>Solution</a></i></td>
   </tr>
   
 </table>
