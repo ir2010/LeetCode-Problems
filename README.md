@@ -18,6 +18,10 @@
     <td><b><a href="https://leetcode.com/problems/number-complement/">Number Complement</a></b></td>
     <td><i><a href=https://github.com/ir2010/LeetCode-Problems/blob/main/Easy/Number%20Complement.cpp>Solution</a></i></td>
   </tr>
+  <tr>
+    <td><b><a href="https://leetcode.com/problems/number-of-recent-calls/">Number of Recent Calls</a></b></td>
+    <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Easy/Number of Recent Calls.cpp">Solution</a></i></td>
+  </tr>
   
 </table>
 
