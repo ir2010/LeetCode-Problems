@@ -56,6 +56,10 @@
     <td><b><a href="https://leetcode.com/problems/k-diff-pairs-in-an-array/">K-diff Pairs in an Array</a></b></td>
     <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/K-diff Pairs in an Array.cpp">Solution</a></i></td>
   </tr>
+  <tr>
+    <td><b><a href="https://leetcode.com/problems/path-with-maximum-gold/">Path with Maximum Gold</a></b></td>
+    <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/Path with Maximum Gold.cpp">Solution</a></i></td>
+  </tr>
 </table>
 
 <b>Hard</b>
