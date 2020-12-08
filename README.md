@@ -76,6 +76,10 @@
     <td><b><a href="https://leetcode.com/problems/remove-duplicate-letters/">Remove Duplicate Letters</a></b></td>
     <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/Remove Duplicate Letters.cpp">Solution</a></i></td>
   </tr>
+  <tr>
+    <td><b><a href="https://leetcode.com/problems/rotate-list/">Rotate List</a></b></td>
+    <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/Rotate List.cpp">Solution</a></i></td>
+  </tr>
 </table>
 
 <b>Hard</b>
