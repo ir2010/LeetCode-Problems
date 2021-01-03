@@ -53,6 +53,10 @@
     <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/Course Schedule II.cpp">Solution</a></i></td>
   </tr>
   <tr>
+    <td><b><a href="https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/">Find a Corresponding Node of a Binary Tree in a Clone of That Tree</a></b></td>
+    <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/Find a Corresponding Node of a Binary Tree in a Clone of That Tree.cpp">Solution</a></i></td>
+  </tr>
+  <tr>
     <td><b><a href="https://leetcode.com/problems/insert-into-a-binary-search-tree/">Insert into a Binary Search Tree</a></b></td>
     <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/Insert into a Binary Search Tree.cpp">Solution</a></i></td>
   </tr>
