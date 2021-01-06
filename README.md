@@ -117,4 +117,3 @@
     <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Hard/N-Queens II.cpp">Solution</a></i></td>
   </tr>
 </table>
-    
