@@ -82,7 +82,7 @@
   </tr>
   <tr>
     <td><b><a href="https://leetcode.com/problems/remove-covered-intervals/">Remove Covered Intervals</a></b></td>
-    <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/Remove Covered Intervals.cpp">Solution</a></i></td>
+    <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/Remove%20Duplicate%20from%20Sorted%20List%20II.cpp">Solution</a></i></td>
   </tr>
   <tr>
     <td><b><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/">Remove Duplicates from Sorted List II</a></b></td>
