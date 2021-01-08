@@ -77,6 +77,10 @@
     <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/K-diff Pairs in an Array.cpp">Solution</a></i></td>
   </tr>
   <tr>
+    <td><b><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></b></td>
+    <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/Longest Substring Without Repeating Characters.cpp">Solution</a></i></td>
+  </tr>
+  <tr>
     <td><b><a href="https://leetcode.com/problems/path-with-maximum-gold/">Path with Maximum Gold</a></b></td>
     <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/Path with Maximum Gold.cpp">Solution</a></i></td>
   </tr>
