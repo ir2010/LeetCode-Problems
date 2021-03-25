@@ -22,6 +22,10 @@
     <td><b><a href="https://leetcode.com/problems/complement-of-base-10-integer/">Complement of Base 10 Integer</a></b></td>
     <td><i><a href=https://github.com/ir2010/LeetCode-Problems/blob/main/Easy/Complement%20of%20Base%2010%20Integer.cpp>Solution</a></i></td>
   </tr>
+   <tr>
+    <td><b><a href="https://leetcode.com/problems/divisor-game/">Divisor Game</a></b></td>
+    <td><i><a href=https://github.com/ir2010/LeetCode-Problems/blob/main/Easy/Divisor%20Game.cpp>Solution</a></i></td>
+  </tr>
   <tr>
     <td><b><a href="https://leetcode.com/problems/kth-missing-positive-number/">Kth Missing Positive Number</a></b></td>
     <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Easy/Kth Missing Positive Number.cpp">Solution</a></i></td>
