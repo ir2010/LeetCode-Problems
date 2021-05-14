@@ -31,6 +31,10 @@
     <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Easy/Kth Missing Positive Number.cpp">Solution</a></i></td>
   </tr>
   <tr>
+    <td><b><a href="https://leetcode.com/problems/maximum-number-of-balls-in-a-box/">Maximum Number of Balls in a Box</a></b></td>
+    <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Easy/Maximum Number of Balls in a Box.cpp">Solution</a></i></td>
+  </tr>
+  <tr>
     <td><b><a href="https://leetcode.com/problems/merge-sorted-array/">Merge Sorted Array</a></b></td>
     <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Easy/Merge%20Sorted%20Array.cpp">Solution</a></i></td>
   </tr>
