@@ -132,6 +132,10 @@
     <td><b><a href="https://leetcode.com/problems/serialize-and-deserialize-bst/">Serialize and Deserialize BST</a></b></td>
     <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/Serialize and Deserialize BST.cpp">Solution</a></i></td>
   </tr>
+  <tr>
+    <td><b><a href="https://leetcode.com/problems/unique-paths/">Unique Paths</a></b></td>
+    <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/Unique Paths.cpp">Solution</a></i></td>
+  </tr>
 </table>
 
 <b>Hard</b>
