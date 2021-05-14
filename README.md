@@ -38,6 +38,10 @@
     <td><b><a href="https://leetcode.com/problems/merge-two-sorted-lists/">Merge Two Sorted Lists</a></b></td>
     <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Easy/Merge%20Two%20Sorted%20Lists.cpp">Solution</a></i></td>
   </tr>
+   <tr>
+    <td><b><a href="https://leetcode.com/problems/minimum-distance-to-the-target-element/">Minimum Distance to the Target Element</a></b></td>
+    <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Easy/Minimum Distance to the Target Element.cpp">Solution</a></i></td>
+  </tr>
   <tr>
     <td><b><a href="https://leetcode.com/problems/number-complement/">Number Complement</a></b></td>
     <td><i><a href=https://github.com/ir2010/LeetCode-Problems/blob/main/Easy/Number%20Complement.cpp>Solution</a></i></td>
