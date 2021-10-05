@@ -140,6 +140,10 @@
     <td><b><a href="https://leetcode.com/problems/unique-paths-ii/">Unique Paths II</a></b></td>
     <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/Unique Paths II.cpp">Solution</a></i></td>
   </tr>
+  <tr>
+    <td><b><a href="https://leetcode.com/problems/water-and-jug-problem/">Water and Jug Problem</a></b></td>
+    <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/Water and Jug Problem.cpp">Solution</a></i></td>
+  </tr>
 </table>
 
 <b>Hard</b>
