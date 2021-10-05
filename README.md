@@ -76,6 +76,10 @@
     <td><b><a href="https://leetcode.com/problems/alphabet-board-path/">Alphabet Board Path</a></b></td>
     <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/Alphabet%20Board%20Path.cpp">Solution</a></i></td>
   </tr>
+   <tr>
+    <td><b><a href="https://leetcode.com/problems/binary-tree-right-side-view/">Binary Tree Right Side View</a></b></td>
+    <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/Binary Tree Right Side View.cpp">Solution</a></i></td>
+  </tr>
   <tr>
     <td><b><a href="https://leetcode.com/problems/combination-sum/">Combination Sum</a></b></td>
     <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/Combination%20Sum.cpp">Solution</a></i></td>
