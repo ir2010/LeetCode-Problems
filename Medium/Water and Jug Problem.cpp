@@ -15,7 +15,7 @@ public:
         // dfs O(c1*c2) ..?
         // return dfs (c1, c2, t, 0, 0);
         
-        // O(1)
+        // O(log (max(c1, c2))
         return t % __gcd (c1, c2) == 0;
         
     } 
