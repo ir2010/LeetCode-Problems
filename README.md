@@ -148,6 +148,22 @@
     <td><b><a href="https://leetcode.com/problems/water-and-jug-problem/">Water and Jug Problem</a></b></td>
     <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Medium/Water and Jug Problem.cpp">Solution</a></i></td>
   </tr>
+  <tr>
+    <td><b><a href="https://leetcode.com/problems/jump-game/">Jump Game</a></b></td>
+    <td><i><a href="https://github.com/udaysrinu/LeetCode-Problems/blob/main/Medium/Jump%20game.cpp">Solution</a></i></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://leetcode.com/problems/longest-increasing-subsequence/">Longest Increasing Subsequence</a></b></td>
+    <td><i><a href="https://github.com/udaysrinu/LeetCode-Problems/blob/main/Medium/Longest%20arithmetic%20subsequence.cpp">Solution</a></i></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://leetcode.com/problems/longest-palindromic-subsequence/">Longest Palindromic Subsequence</a></b></td>
+    <td><i><a href="https://github.com/udaysrinu/LeetCode-Problems/blob/main/Medium/Longest%20palindromic%20subsequence.cpp">Solution</a></i></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://leetcode.com/problems/longest-arithmetic-subsequence/">Longest Arithmetic Subsequence</a></b></td>
+    <td><i><a href="https://github.com/udaysrinu/LeetCode-Problems/blob/main/Medium/Longest%20arithmetic%20subsequence.cpp">Solution</a></i></td>
+  </tr>
 </table>
 
 <b>Hard</b>
@@ -163,5 +179,9 @@
   <tr>
     <td><b><a href="https://leetcode.com/problems/n-queens-ii/">N-Queens II</a></b></td>
     <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Hard/N-Queens II.cpp">Solution</a></i></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://leetcode.com/problems/edit-distance/">Edit Distance</a></b></td>
+    <td><i><a href="https://github.com/udaysrinu/LeetCode-Problems/blob/main/Hard/Edit%20distance.cpp">Solution</a></i></td>
   </tr>
 </table>
