@@ -184,4 +184,9 @@
     <td><b><a href="https://leetcode.com/problems/edit-distance/">Edit Distance</a></b></td>
     <td><i><a href="https://github.com/udaysrinu/LeetCode-Problems/blob/main/Hard/Edit%20distance.cpp">Solution</a></i></td>
   </tr>
+  <tr>
+    <td><b><a href="https://leetcode.com/problems/maximum-profit-in-job-scheduling/">Maximum Profit in Job Scheduling</a></b></td>
+    <td><i><a href="https://github.com/ir2010/LeetCode-Problems/blob/main/Hard/Maximum_Profit_in_Job_Scheduling.cpp">Solution</a></i></td>
+  </tr>
+  
 </table>
